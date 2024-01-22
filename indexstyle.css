@@ -1,0 +1,14 @@
+*{
+    background-image:url("hackergif1.gif");	
+    height: 100em;
+}
+
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 10fr;
+    color: antiquewhite;
+    text-align: center;
+}
+.title a {
+    text-decoration: none;  
+}
